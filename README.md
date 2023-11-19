@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anshorfalahi&theme=onedark" alt="anshorfalahi" /></a> </p>
 
 - 🌱 I’m currently learning **more about javascript**
-- 💬 Ask me about **javascript or php **
+- 💬 Ask me about **javascript or php**
 - 📫 How to reach me **anshorfalahi@proton.me**
 - ⚡ Fun fact **I can spend a long time sleeping**
 
