@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **more about javascript**
 - 💬 Ask me about **javascript or php**
 - 📫 How to reach me **anshorfalahi@proton.me**
-- ⚡ Fun fact **I can spend a long time sleeping**
+<!-- - ⚡ Fun fact **I can spend a long time sleeping** -->
 
 <div> 
 <!-- <a href="https://twitter.com/anshorfalahi" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
