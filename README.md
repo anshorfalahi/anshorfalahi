@@ -51,7 +51,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anshorfalahi&theme=2077" height="180em" style="margin: 10px;"/>
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2 align="left">⚡Activity Graph:</h2> -->
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=anshorfalahi&theme=default"/>
+<!-- <h2 align="left">⚡Activity Graph:</h2> -->
+<!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=anshorfalahi&theme=default"/> -->
  
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
