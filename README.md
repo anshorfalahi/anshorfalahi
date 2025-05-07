@@ -3,5 +3,5 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=anshorfalahi&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/anshorfalahi)
 
 <div align="center">
-    <img width="625em" src="./github-metrics.svg" />
+    <img src="/github-metrics.svg" width="100%">
 </div>
