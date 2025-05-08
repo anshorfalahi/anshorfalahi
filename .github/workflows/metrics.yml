@@ -73,6 +73,9 @@ jobs:
           plugin_people_types: followers, following
           plugin_repositories: yes
           plugin_repositories_order: featured, pinned, starred, random
+          plugin_repositories_pinned: 1
+          plugin_repositories_random: 1
+          plugin_repositories_starred: 1
           plugin_stars: yes
           plugin_stars_limit: 4
           repositories_forks: yes
